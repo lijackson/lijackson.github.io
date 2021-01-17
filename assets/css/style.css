@@ -11,7 +11,7 @@
 
 body {
   font-family: "Inconsolata", monospace;
-  background: url('assets/img/paper-background.jpg');
+  background-image: url('../img/paper-background.jpg');
   color: #0d1e2d;
 }
 
